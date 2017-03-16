@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/alertDialogView"
+    android:weightSum="20">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Quit the App?"
+            android:id="@+id/alertTextView"
+            android:layout_gravity="center"
+            android:paddingLeft="@dimen/alert_message_left_padding"
+            android:paddingRight="@dimen/alert_message_right_padding"
+            android:layout_marginTop="@dimen/alert_message_top_padding"
+            android:layout_marginBottom="20dp"
+            android:layout_weight="17"
+            />
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:paddingRight="@dimen/alert_message_bottom_right_padding"
+          android:paddingBottom="@dimen/alert_message_bottom_padding"
+          android:textColor="@color/colorAccent"
+          android:text="OK"
+          android:id="@+id/alertTextViewOk"
+          android:layout_gravity="bottom|right"
+          android:layout_weight="3"
+          />
+</LinearLayout>

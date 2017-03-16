@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">UniTechSolution</string>
+    <string name="WhiteSpace1"> </string>
+    <string name="Error">Error</string>
+    <!--Menu/-->
+    <string name="SignIn">Register</string>
+    <string name="SignOut">Sign Out</string>
+    <string name="Categories">Categories</string>
+    <string name="Post">Post</string>
+    <string name="Posting">Processing...</string>
+    <string name="Logging">Logging...</string>
+    <string name="Processing">Processing...</string>
+
+    <string name="RegId">ID</string>
+    <string name="RegPassword">Password</string>
+    <string name="RegName">Name</string>
+    <string name="RegAddress">Address</string>
+    <string name="RegContant">Mobile</string>
+    <string name="RegEContant">Emergency Mobile</string>
+    <string name="RegDob">Date Of Birth</string>
+    <string name="RegMale">Male</string>
+    <string name="RegFemale">Female</string>
+    <string name="AlertDialog_ERROR">
+        Server Error: Server Said -
+    </string>
+
+    <string name="AlertDialog_FILL_MORE">
+        Please Fill out the Blank(s)...
+    </string>
+    <string name="AlertDialog_FORMAT_ERROR">
+        Mobile should be numbers...
+    </string>
+</resources>

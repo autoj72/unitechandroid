@@ -1,0 +1,20 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="login_text_empty_weight">2dp</dimen>
+    <dimen name="login_text_weight">4dp</dimen>
+    <dimen name="login_text_top_bottom_padding">6dp</dimen>
+    <dimen name="login_text_padding">6dp</dimen>
+    <dimen name="login_input_area_padding">20dp</dimen>
+    <dimen name="login_input_area_bw_tx_bt_padding">10dp</dimen>
+    <dimen name="login_input_area_bw_tx_bt_padding2">15dp</dimen>
+    <dimen name="reg_edit_text_height">100px</dimen>
+
+    <dimen name="alert_message_top_padding">20dp</dimen>
+    <dimen name="alert_message_right_padding">20dp</dimen>
+    <dimen name="alert_message_left_padding">20dp</dimen>
+    <dimen name="alert_message_bottom_padding">20dp</dimen>
+    <dimen name="alert_message_bottom_right_padding">30dp</dimen>
+    <dimen name="view_left_padding">40dp</dimen>
+</resources>
